@@ -1,0 +1,21 @@
+[2026-11-21 16:32:44] No account | PROGRAM STARTED | -
+[2026-11-21 16:35:46] No account | LOGIN FAILED | unknown account number typed
+[2026-11-21 16:35:56] Acc 1002 (Sara Ahmed) | WRONG PIN | Amt Rs.0 | Bal Rs.12000 | wrong PIN entered
+[2026-11-21 16:36:11] Acc 1002 (Sara Ahmed) | LOGIN OK | Amt Rs.0 | Bal Rs.12000 | -
+[2026-11-21 16:36:24] Acc 1002 (Sara Ahmed) | BALANCE INQUIRY | Amt Rs.0 | Bal Rs.12000 | -
+[2026-11-22 09:04:08] No account | PROGRAM STARTED | -
+[2026-11-22 09:05:02] No account | LOGIN FAILED | unknown account number typed
+[2026-11-22 09:05:10] Acc 1002 (Sara Ahmed) | WRONG PIN | Amt Rs.0 | Bal Rs.12000 | wrong PIN entered
+[2026-11-22 09:05:32] Acc 1002 (Sara Ahmed) | LOGIN OK | Amt Rs.0 | Bal Rs.12000 | -
+[2026-11-22 09:05:41] Acc 1002 (Sara Ahmed) | BALANCE INQUIRY | Amt Rs.0 | Bal Rs.12000 | -
+[2026-11-22 09:06:04] Acc 1002 (Sara Ahmed) | DEPOSIT | Amt Rs.3000 | Bal Rs.15000 | -
+[2026-11-22 09:08:23] Acc 1002 (Sara Ahmed) | WITHDRAWAL | Amt Rs.5000 | Bal Rs.10000 | -
+[2026-11-22 09:11:43] Acc 1002 (Sara Ahmed) | LOGOUT | Amt Rs.0 | Bal Rs.10000 | -
+[2026-11-22 09:13:40] No account | PROGRAM STARTED | -
+[2026-11-22 09:13:46] Acc 1002 (Sara Ahmed) | LOGIN OK | Amt Rs.0 | Bal Rs.10000 | -
+[2026-11-22 09:19:51] No account | PROGRAM STARTED | -
+[2026-11-22 09:20:49] No account | LOGIN FAILED | unknown account number typed
+[2026-11-22 09:20:56] Acc 1002 (Sara Ahmed) | WRONG PIN | Amt Rs.0 | Bal Rs.12000 | wrong PIN entered
+[2026-11-22 09:21:20] Acc 1002 (Sara Ahmed) | LOGIN OK | Amt Rs.0 | Bal Rs.12000 | -
+[2026-11-22 09:21:29] Acc 1002 (Sara Ahmed) | BALANCE INQUIRY | Amt Rs.0 | Bal Rs.12000 | -
+[2026-11-22 09:21:51] Acc 1002 (Sara Ahmed) | DEPOSIT | Amt Rs.3000 | Bal Rs.15000 | -
