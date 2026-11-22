@@ -16,6 +16,6 @@ Microsoft Macro Assembler (MASM).
 4. Run the program.
 
 ## Group Members
-- Member 1
-- Member 2
-- Member 3
+- Rubas Gohar
+- Muhamad bin Shayan
+- Arqam Shariq
